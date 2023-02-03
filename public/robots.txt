@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theworldnews.eu.org/sitemap.xml
