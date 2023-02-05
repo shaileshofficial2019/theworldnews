@@ -98,10 +98,10 @@ const siteConfig = {
       github: 'https://github.com/',
       showwcase: ''
     },
-    about: '',
+    about: 'https://theworldnews.eu.org',
     status: 'https://status.theworldnews.eu.org',
     newsletter: 'https://theworldnews.substack.com',
-    kofi: 'https://ko-fi.com/'
+    kofi: 'https://ko-fi.com/theworldnews'
   },
   adsense: {
     publisherId: '',
