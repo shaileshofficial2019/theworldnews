@@ -99,7 +99,7 @@ const siteConfig = {
       showwcase: ''
     },
     about: '',
-    status: '',
+    status: 'https://status.theworldnews.eu.org',
     newsletter: 'https://theworldnews.substack.com',
     kofi: 'https://ko-fi.com/'
   },
