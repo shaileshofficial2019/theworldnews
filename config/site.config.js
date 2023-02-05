@@ -10,7 +10,7 @@ const siteConfig = {
     altText: 'Theworldnews',
     ogType: 'website',
     monetizationTag: '',
-    twitterUsername: '@',
+    twitterUsername: '@tw_theworldnews',
     pages: {
       supportMe: {
         title: 'Support Me | Theworldnews',
@@ -93,14 +93,14 @@ const siteConfig = {
   },
   urls: {
     socials: {
-      twitter: 'https://twitter.com/Theworldnews',
-      linkedin: 'https://www.linkedin.com/in/Theworldnews',
-      github: 'https://github.com/Theworldnews',
+      twitter: 'https://twitter.com/tw_theworldnews',
+      linkedin: 'https://www.linkedin.com/in/',
+      github: 'https://github.com/',
       showwcase: ''
     },
     about: '',
     status: '',
-    newsletter: '',
+    newsletter: 'https://theworldnews.substack.com',
     kofi: 'https://ko-fi.com/'
   },
   adsense: {
