@@ -13,7 +13,7 @@ export default function Document() {
           dangerouslySetInnerHTML={{
             __html: `
             (adsbygoogle = window.adsbygoogle || []).push({
-              google_ad_client: "ca-pub-",
+              google_ad_client: "ca-pub-6197071521913661",
               enable_page_level_ads: true
             });
             `
