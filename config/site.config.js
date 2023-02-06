@@ -104,10 +104,10 @@ const siteConfig = {
     kofi: 'https://ko-fi.com/theworldnews'
   },
   adsense: {
-    publisherId: '',
+    publisherId: 'pub-6197071521913661',
     slots: {
-      pageTop: '',
-      inFeed: ''
+      pageTop: '1561943197',
+      inFeed: '9248011463'
     }
   },
   copyrightText: `© ${new Date().getFullYear()} Theworldnews. All rights reserved.`,
