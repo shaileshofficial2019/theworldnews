@@ -11,7 +11,7 @@ const FourOhFour = () => {
 
       <Navbar />
       <main>
-        <center> 404 <br> <h3> Not Found ! </h3> <br> <a href='/'> Go Home</a></center>
+        <center> 404 <br /> <h3> Not Found ! </h3> <br /> <a href='/'> Go Home</a></center>
         <Newsletter />
       </main>
       <Footer />
